@@ -1,0 +1,19 @@
+# TrekVerse AI
+.env
+*.pyc
+__pycache__/
+venv/
+.venv/
+node_modules/
+dist/
+build/
+staticfiles/
+media/
+*.sqlite3
+db.sqlite3
+.DS_Store
+.idea/
+.vscode/
+*.log
+coverage/
+.pytest_cache/
